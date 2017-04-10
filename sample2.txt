@@ -1,2 +1,3 @@
 this is sample2
 add line to sample2
+add line to sample2 second
